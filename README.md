@@ -23,5 +23,7 @@ Backend testing performed for a product delivery platform API.
 
 - Participated in a Scrum-based workflow within an Agile development environment.
 
+### Link: https://docs.google.com/spreadsheets/d/1xS3lexettuVYZMiH2-TWG9jmttiJwHwc/edit?usp=sharing&ouid=108802788674374862865&rtpof=true&sd=true
+
 **Date:** February 2026  
 **Tools Used:** Postman, Jira
