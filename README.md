@@ -26,6 +26,8 @@ Backend testing performed for a product delivery platform API.
 **Date:** February 2026  
 **Tools Used:** Postman, Jira
 
+[Postman](https://media.discordapp.net/attachments/1468767353025073216/1471574615615606815/image.png?ex=69a48628&is=69a334a8&hm=908e513a039ae0fdfbf4261a4c97033e04385b140eeac0f0e1452c5d8b39e47f&=&format=webp&quality=lossless&width=1143&height=683)
+
 ## Conclusion
 
 This project strengthened my backend testing skills by providing hands-on experience validating API functionality, business logic, and data integrity within a real-world application scenario. Through structured manual testing and detailed defect reporting, I contributed to identifying issues early in the development process and ensuring reliable system behavior.
@@ -34,4 +36,3 @@ The experience enhanced my ability to analyze API responses, design effective va
 
 ### [Link](https://docs.google.com/spreadsheets/d/1xS3lexettuVYZMiH2-TWG9jmttiJwHwc/edit?usp=sharing&ouid=108802788674374862865&rtpof=true&sd=true).
 
-[Postman example](https://media.discordapp.net/attachments/1468767353025073216/1471574615615606815/image.png?ex=69a48628&is=69a334a8&hm=908e513a039ae0fdfbf4261a4c97033e04385b140eeac0f0e1452c5d8b39e47f&=&format=webp&quality=lossless&width=1143&height=683)
