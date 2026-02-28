@@ -26,4 +26,10 @@ Backend testing performed for a product delivery platform API.
 **Date:** February 2026  
 **Tools Used:** Postman, Jira
 
+## Conclusion
+
+This project strengthened my backend testing skills by providing hands-on experience validating API functionality, business logic, and data integrity within a real-world application scenario. Through structured manual testing and detailed defect reporting, I contributed to identifying issues early in the development process and ensuring reliable system behavior.
+
+The experience enhanced my ability to analyze API responses, design effective validation checklists, and document defects clearly within an Agile workflow, reinforcing best practices in software quality assurance and backend validation.
+
 ### [Link](https://docs.google.com/spreadsheets/d/1xS3lexettuVYZMiH2-TWG9jmttiJwHwc/edit?usp=sharing&ouid=108802788674374862865&rtpof=true&sd=true).
