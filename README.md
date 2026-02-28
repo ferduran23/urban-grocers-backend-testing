@@ -33,3 +33,5 @@ This project strengthened my backend testing skills by providing hands-on experi
 The experience enhanced my ability to analyze API responses, design effective validation checklists, and document defects clearly within an Agile workflow, reinforcing best practices in software quality assurance and backend validation.
 
 ### [Link](https://docs.google.com/spreadsheets/d/1xS3lexettuVYZMiH2-TWG9jmttiJwHwc/edit?usp=sharing&ouid=108802788674374862865&rtpof=true&sd=true).
+
+(https://media.discordapp.net/attachments/1468767353025073216/1471574615615606815/image.png?ex=69a48628&is=69a334a8&hm=908e513a039ae0fdfbf4261a4c97033e04385b140eeac0f0e1452c5d8b39e47f&=&format=webp&quality=lossless&width=1143&height=683)
